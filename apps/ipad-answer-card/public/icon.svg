@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="答题记录器图标">
+  <rect width="192" height="192" rx="42" fill="#235cda"/>
+  <rect x="38" y="34" width="116" height="124" rx="18" fill="#fff"/>
+  <path d="M60 70h56M60 96h22M60 122h22" stroke="#235cda" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="132" cy="108" r="20" fill="#e8b949"/>
+  <path d="m123 108 7 7 12-15" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

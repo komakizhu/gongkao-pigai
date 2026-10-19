@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 2,
+  "type": "answer-key",
+  "paperId": "2000-guokao-xingce-xingzhengzhifa",
+  "paperVersion": "2000-answer-pdf-v2-section-mapped",
+  "name": "00国考行测",
+  "createdAt": "2026-10-19T05:51:49Z",
+  "questions": [
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:81",
+      "number": 81,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 3
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:82",
+      "number": 82,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 4
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:83",
+      "number": 83,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 5
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:84",
+      "number": 84,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 6
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:85",
+      "number": 85,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 7
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:86",
+      "number": 86,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 8
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:87",
+      "number": 87,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 9
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:88",
+      "number": 88,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 10
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:89",
+      "number": 89,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 11
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:90",
+      "number": 90,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 12
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:91",
+      "number": 91,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 13
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:92",
+      "number": 92,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 14
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:93",
+      "number": 93,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 15
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:94",
+      "number": 94,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 16
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:95",
+      "number": 95,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 17
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:96",
+      "number": 96,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 18
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:97",
+      "number": 97,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 19
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:98",
+      "number": 98,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 20
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:99",
+      "number": 99,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 21
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:100",
+      "number": 100,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/资料分析/answer-lines.md",
+        "line": 22
+      }
+    }
+  ],
+  "issues": [],
+  "examType": "xingce",
+  "year": 2000,
+  "category": "行政执法",
+  "total_questions": 100,
+  "scope": "full"
+}

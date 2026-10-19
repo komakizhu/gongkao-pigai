@@ -1,0 +1,681 @@
+{
+  "schemaVersion": 1,
+  "type": "question-section-map",
+  "paperId": "2000-guokao-xingce-xingzhengzhifa",
+  "paperVersion": "2000-answer-pdf-v2-section-mapped",
+  "sourcePdf": "/Volumes/T7s 2T/公考/国考行政执法卷/1行测/00行测-答案.pdf",
+  "extractedMaterial": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/extracted/extracted.md",
+  "topLevelSections": [
+    {
+      "section": "言语理解",
+      "start": 1,
+      "end": 20,
+      "subsections": [],
+      "source": "00行测-答案.pdf",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "section": "数量关系",
+      "start": 21,
+      "end": 35,
+      "subsections": [
+        {
+          "section": "数字推理",
+          "start": 21,
+          "end": 25
+        },
+        {
+          "section": "数学运算",
+          "start": 26,
+          "end": 35
+        }
+      ],
+      "source": "00行测-答案.pdf",
+      "questions": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "section": "判断推理",
+      "start": 36,
+      "end": 80,
+      "subsections": [
+        {
+          "section": "事件排序",
+          "start": 36,
+          "end": 50
+        },
+        {
+          "section": "常识判断",
+          "start": 51,
+          "end": 60
+        },
+        {
+          "section": "图形推理",
+          "start": 61,
+          "end": 70
+        },
+        {
+          "section": "演绎推理",
+          "start": 71,
+          "end": 80
+        }
+      ],
+      "source": "00行测-答案.pdf",
+      "questions": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "section": "资料分析",
+      "start": 81,
+      "end": 100,
+      "subsections": [],
+      "source": "00行测-答案.pdf",
+      "questions": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ]
+    }
+  ],
+  "questionCount": 100,
+  "questionSourceLines": {
+    "1": {
+      "number": 1,
+      "answer": "A",
+      "extractedLine": 7
+    },
+    "2": {
+      "number": 2,
+      "answer": "C",
+      "extractedLine": 10
+    },
+    "3": {
+      "number": 3,
+      "answer": "C",
+      "extractedLine": 15
+    },
+    "4": {
+      "number": 4,
+      "answer": "B",
+      "extractedLine": 18
+    },
+    "5": {
+      "number": 5,
+      "answer": "B",
+      "extractedLine": 21
+    },
+    "6": {
+      "number": 6,
+      "answer": "C",
+      "extractedLine": 24
+    },
+    "7": {
+      "number": 7,
+      "answer": "C",
+      "extractedLine": 28
+    },
+    "8": {
+      "number": 8,
+      "answer": "D",
+      "extractedLine": 32
+    },
+    "9": {
+      "number": 9,
+      "answer": "B",
+      "extractedLine": 35
+    },
+    "10": {
+      "number": 10,
+      "answer": "C",
+      "extractedLine": 37
+    },
+    "11": {
+      "number": 11,
+      "answer": "A",
+      "extractedLine": 42
+    },
+    "12": {
+      "number": 12,
+      "answer": "C",
+      "extractedLine": 45
+    },
+    "13": {
+      "number": 13,
+      "answer": "A",
+      "extractedLine": 48
+    },
+    "14": {
+      "number": 14,
+      "answer": "B",
+      "extractedLine": 54
+    },
+    "15": {
+      "number": 15,
+      "answer": "C",
+      "extractedLine": 57
+    },
+    "16": {
+      "number": 16,
+      "answer": "C",
+      "extractedLine": 60
+    },
+    "17": {
+      "number": 17,
+      "answer": "C",
+      "extractedLine": 63
+    },
+    "18": {
+      "number": 18,
+      "answer": "C",
+      "extractedLine": 66
+    },
+    "19": {
+      "number": 19,
+      "answer": "D",
+      "extractedLine": 69
+    },
+    "20": {
+      "number": 20,
+      "answer": "A",
+      "extractedLine": 72
+    },
+    "21": {
+      "number": 21,
+      "answer": "D",
+      "extractedLine": 76
+    },
+    "22": {
+      "number": 22,
+      "answer": "D",
+      "extractedLine": 79
+    },
+    "23": {
+      "number": 23,
+      "answer": "C",
+      "extractedLine": 82
+    },
+    "24": {
+      "number": 24,
+      "answer": "C",
+      "extractedLine": 84
+    },
+    "25": {
+      "number": 25,
+      "answer": "C",
+      "extractedLine": 87
+    },
+    "26": {
+      "number": 26,
+      "answer": "C",
+      "extractedLine": 90
+    },
+    "27": {
+      "number": 27,
+      "answer": "B",
+      "extractedLine": 92
+    },
+    "28": {
+      "number": 28,
+      "answer": "A",
+      "extractedLine": 94
+    },
+    "29": {
+      "number": 29,
+      "answer": "D",
+      "extractedLine": 97
+    },
+    "30": {
+      "number": 30,
+      "answer": "A",
+      "extractedLine": 104
+    },
+    "31": {
+      "number": 31,
+      "answer": "D",
+      "extractedLine": 106
+    },
+    "32": {
+      "number": 32,
+      "answer": "C",
+      "extractedLine": 108
+    },
+    "33": {
+      "number": 33,
+      "answer": "B",
+      "extractedLine": 110
+    },
+    "34": {
+      "number": 34,
+      "answer": "B",
+      "extractedLine": 114
+    },
+    "35": {
+      "number": 35,
+      "answer": "B",
+      "extractedLine": 117
+    },
+    "36": {
+      "number": 36,
+      "answer": "A",
+      "extractedLine": 122
+    },
+    "37": {
+      "number": 37,
+      "answer": "C",
+      "extractedLine": 125
+    },
+    "38": {
+      "number": 38,
+      "answer": "C",
+      "extractedLine": 128
+    },
+    "39": {
+      "number": 39,
+      "answer": "B",
+      "extractedLine": 131
+    },
+    "40": {
+      "number": 40,
+      "answer": "B",
+      "extractedLine": 134
+    },
+    "41": {
+      "number": 41,
+      "answer": "C",
+      "extractedLine": 137
+    },
+    "42": {
+      "number": 42,
+      "answer": "D",
+      "extractedLine": 140
+    },
+    "43": {
+      "number": 43,
+      "answer": "D",
+      "extractedLine": 143
+    },
+    "44": {
+      "number": 44,
+      "answer": "C",
+      "extractedLine": 146
+    },
+    "45": {
+      "number": 45,
+      "answer": "D",
+      "extractedLine": 149
+    },
+    "46": {
+      "number": 46,
+      "answer": "A",
+      "extractedLine": 157
+    },
+    "47": {
+      "number": 47,
+      "answer": "A",
+      "extractedLine": 160
+    },
+    "48": {
+      "number": 48,
+      "answer": "A",
+      "extractedLine": 163
+    },
+    "49": {
+      "number": 49,
+      "answer": "A",
+      "extractedLine": 166
+    },
+    "50": {
+      "number": 50,
+      "answer": "B",
+      "extractedLine": 169
+    },
+    "51": {
+      "number": 51,
+      "answer": "B",
+      "extractedLine": 173
+    },
+    "52": {
+      "number": 52,
+      "answer": "C",
+      "extractedLine": 175
+    },
+    "53": {
+      "number": 53,
+      "answer": "D",
+      "extractedLine": 177
+    },
+    "54": {
+      "number": 54,
+      "answer": "C",
+      "extractedLine": 180
+    },
+    "55": {
+      "number": 55,
+      "answer": "B",
+      "extractedLine": 183
+    },
+    "56": {
+      "number": 56,
+      "answer": "C",
+      "extractedLine": 186
+    },
+    "57": {
+      "number": 57,
+      "answer": "C",
+      "extractedLine": 187
+    },
+    "58": {
+      "number": 58,
+      "answer": "A",
+      "extractedLine": 189
+    },
+    "59": {
+      "number": 59,
+      "answer": "A",
+      "extractedLine": 191
+    },
+    "60": {
+      "number": 60,
+      "answer": "D",
+      "extractedLine": 196
+    },
+    "61": {
+      "number": 61,
+      "answer": "A",
+      "extractedLine": 199
+    },
+    "62": {
+      "number": 62,
+      "answer": "B",
+      "extractedLine": 206
+    },
+    "63": {
+      "number": 63,
+      "answer": "A",
+      "extractedLine": 209
+    },
+    "64": {
+      "number": 64,
+      "answer": "B",
+      "extractedLine": 211
+    },
+    "65": {
+      "number": 65,
+      "answer": "C",
+      "extractedLine": 213
+    },
+    "66": {
+      "number": 66,
+      "answer": "A",
+      "extractedLine": 215
+    },
+    "67": {
+      "number": 67,
+      "answer": "C",
+      "extractedLine": 217
+    },
+    "68": {
+      "number": 68,
+      "answer": "A",
+      "extractedLine": 219
+    },
+    "69": {
+      "number": 69,
+      "answer": "D",
+      "extractedLine": 221
+    },
+    "70": {
+      "number": 70,
+      "answer": "C",
+      "extractedLine": 223
+    },
+    "71": {
+      "number": 71,
+      "answer": "C",
+      "extractedLine": 227
+    },
+    "72": {
+      "number": 72,
+      "answer": "D",
+      "extractedLine": 229
+    },
+    "73": {
+      "number": 73,
+      "answer": "B",
+      "extractedLine": 234
+    },
+    "74": {
+      "number": 74,
+      "answer": "B",
+      "extractedLine": 236
+    },
+    "75": {
+      "number": 75,
+      "answer": "C",
+      "extractedLine": 239
+    },
+    "76": {
+      "number": 76,
+      "answer": "A",
+      "extractedLine": 242
+    },
+    "77": {
+      "number": 77,
+      "answer": "B",
+      "extractedLine": 245
+    },
+    "78": {
+      "number": 78,
+      "answer": "A",
+      "extractedLine": 247
+    },
+    "79": {
+      "number": 79,
+      "answer": "B",
+      "extractedLine": 251
+    },
+    "80": {
+      "number": 80,
+      "answer": "D",
+      "extractedLine": 259
+    },
+    "81": {
+      "number": 81,
+      "answer": "A",
+      "extractedLine": 263
+    },
+    "82": {
+      "number": 82,
+      "answer": "C",
+      "extractedLine": 265
+    },
+    "83": {
+      "number": 83,
+      "answer": "A",
+      "extractedLine": 267
+    },
+    "84": {
+      "number": 84,
+      "answer": "C",
+      "extractedLine": 269
+    },
+    "85": {
+      "number": 85,
+      "answer": "B",
+      "extractedLine": 271
+    },
+    "86": {
+      "number": 86,
+      "answer": "D",
+      "extractedLine": 272
+    },
+    "87": {
+      "number": 87,
+      "answer": "B",
+      "extractedLine": 277
+    },
+    "88": {
+      "number": 88,
+      "answer": "A",
+      "extractedLine": 280
+    },
+    "89": {
+      "number": 89,
+      "answer": "D",
+      "extractedLine": 282
+    },
+    "90": {
+      "number": 90,
+      "answer": "B",
+      "extractedLine": 284
+    },
+    "91": {
+      "number": 91,
+      "answer": "B",
+      "extractedLine": 286
+    },
+    "92": {
+      "number": 92,
+      "answer": "A",
+      "extractedLine": 288
+    },
+    "93": {
+      "number": 93,
+      "answer": "D",
+      "extractedLine": 291
+    },
+    "94": {
+      "number": 94,
+      "answer": "C",
+      "extractedLine": 293
+    },
+    "95": {
+      "number": 95,
+      "answer": "D",
+      "extractedLine": 295
+    },
+    "96": {
+      "number": 96,
+      "answer": "D",
+      "extractedLine": 297
+    },
+    "97": {
+      "number": 97,
+      "answer": "B",
+      "extractedLine": 299
+    },
+    "98": {
+      "number": 98,
+      "answer": "D",
+      "extractedLine": 301
+    },
+    "99": {
+      "number": 99,
+      "answer": "B",
+      "extractedLine": 302
+    },
+    "100": {
+      "number": 100,
+      "answer": "D",
+      "extractedLine": 309
+    }
+  }
+}

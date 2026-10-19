@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "exam": {
+    "name": "省考六模块示例",
+    "paper_name": "六模块演示卷",
+    "year": null,
+    "category": null,
+    "source_format": "json"
+  },
+  "completeness": {
+    "scope": "full",
+    "is_full": true,
+    "basis": "按文件记录视为完整",
+    "records_read": 12,
+    "declared_total": null,
+    "missing_count": 0
+  },
+  "counts": {
+    "total": 12,
+    "correct": 3,
+    "wrong": 8,
+    "unanswered": 1,
+    "accuracy": 25.0
+  },
+  "scores": {
+    "equal_weight": 25.0,
+    "weighted": 27.08,
+    "difference": 2.08,
+    "difference_definition": "加权估分 - 等权估分",
+    "weighted_model_id": "assumption-six-v1",
+    "weighted_model_name": "六模块假设系数模型 v1",
+    "weighted_is_official": false,
+    "interpretation": "按完整试卷口径计算"
+  },
+  "modules": [
+    {"module": "政治理论", "total": 2, "correct": 0, "wrong": 2, "unanswered": 0, "accuracy": 0.0, "equal_contribution": 0.0, "weighted_contribution": 0.0},
+    {"module": "常识判断", "total": 2, "correct": 0, "wrong": 1, "unanswered": 1, "accuracy": 0.0, "equal_contribution": 0.0, "weighted_contribution": 0.0},
+    {"module": "言语理解与表达", "total": 2, "correct": 2, "wrong": 0, "unanswered": 0, "accuracy": 100.0, "equal_contribution": 16.67, "weighted_contribution": 16.67},
+    {"module": "数量关系", "total": 2, "correct": 0, "wrong": 2, "unanswered": 0, "accuracy": 0.0, "equal_contribution": 0.0, "weighted_contribution": 0.0},
+    {"module": "判断推理", "total": 2, "correct": 0, "wrong": 2, "unanswered": 0, "accuracy": 0.0, "equal_contribution": 0.0, "weighted_contribution": 0.0},
+    {"module": "资料分析", "total": 2, "correct": 1, "wrong": 1, "unanswered": 0, "accuracy": 50.0, "equal_contribution": 8.33, "weighted_contribution": 10.42}
+  ],
+  "model": {
+    "id": "assumption-six-v1",
+    "version": "1.0.0",
+    "name": "六模块假设系数模型 v1",
+    "official": false,
+    "applicability": {
+      "note": "当考试年份、类别或题量不能可靠匹配公开方案时使用；也适用于用户明确选择该模型的国考、省考和其他六模块试卷。"
+    },
+    "weights": {"政治理论": "7/10", "常识判断": "3/5", "言语理解与表达": "4/5", "数量关系": "1", "判断推理": "7/10", "资料分析": "1"},
+    "weight_values": {"政治理论": 0.7, "常识判断": 0.6, "言语理解与表达": 0.8, "数量关系": 1.0, "判断推理": 0.7, "资料分析": 1.0},
+    "source": [{"title": "华图教育：27国考行测六大模块备考顺序怎么排", "url": "https://ha.huatu.com/2026/0917/6821353.html", "research_date": "2026-10-16"}],
+    "uncertainty": "这是透明的经验假设，不是机构正式评分表，也不能还原正式考试成绩。"
+  },
+  "analysis": {
+    "highest_accuracy_modules": ["言语理解与表达"],
+    "lowest_accuracy_modules": ["政治理论", "常识判断", "数量关系", "判断推理"],
+    "largest_weighted_contribution_modules": ["言语理解与表达"],
+    "difference_explanation": "加权估分高于等权估分，主要因为资料分析的加权贡献高于等权贡献。"
+  },
+  "warnings": [
+    "第 6 条记录 的批改结果优先于答案比较结果",
+    "考试信息或模块题量未可靠匹配公开方案，使用假设性模型 assumption-six-v1"
+  ]
+}

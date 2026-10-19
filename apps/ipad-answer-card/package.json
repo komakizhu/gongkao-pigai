@@ -1,0 +1,27 @@
+{
+  "name": "ipad-answer-recorder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "build:standalone": "node scripts/build-standalone.mjs",
+    "test:standalone": "node scripts/verify-standalone-save.mjs",
+    "test:skill": "python3 -m unittest discover -s ../../skills/gongkao-exam-answer-workflow/tests -v",
+    "test:all": "npm run typecheck && npm test && npm run test:skill && npm run build && npm run test:e2e"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.7.2",
+    "fake-indexeddb": "^6.2.2",
+    "jsdom": "^27.0.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  }
+}

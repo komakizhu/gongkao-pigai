@@ -1,0 +1,7 @@
+interface:
+  display_name: "公考申论估分（gongkao-shenlun-score-estimator）"
+  short_description: "申论估分占位入口，明确提示尚未实现并保留批改结果功能"
+  default_prompt: "使用 $gongkao-shenlun-score-estimator 处理申论估分请求；当前返回尚未实现状态，不生成虚构分数。"
+
+policy:
+  allow_implicit_invocation: false

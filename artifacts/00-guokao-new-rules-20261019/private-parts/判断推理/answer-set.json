@@ -1,0 +1,781 @@
+{
+  "schemaVersion": 2,
+  "type": "answer-key",
+  "paperId": "2000-guokao-xingce-xingzhengzhifa",
+  "paperVersion": "2000-answer-pdf-v2-section-mapped",
+  "name": "00国考行测",
+  "createdAt": "2026-10-19T05:51:49Z",
+  "questions": [
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:36",
+      "number": 36,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 3
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:37",
+      "number": 37,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 4
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:38",
+      "number": 38,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 5
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:39",
+      "number": 39,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 6
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:40",
+      "number": 40,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 7
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:41",
+      "number": 41,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 8
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:42",
+      "number": 42,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 9
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:43",
+      "number": 43,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 10
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:44",
+      "number": 44,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 11
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:45",
+      "number": 45,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 12
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:46",
+      "number": 46,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 13
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:47",
+      "number": 47,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 14
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:48",
+      "number": 48,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 15
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:49",
+      "number": 49,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 16
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:50",
+      "number": 50,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 17
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:51",
+      "number": 51,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 18
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:52",
+      "number": 52,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 19
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:53",
+      "number": 53,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 20
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:54",
+      "number": 54,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 21
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:55",
+      "number": 55,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 22
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:56",
+      "number": 56,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 23
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:57",
+      "number": 57,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 24
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:58",
+      "number": 58,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 25
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:59",
+      "number": 59,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 26
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:60",
+      "number": 60,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 27
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:61",
+      "number": 61,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 28
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:62",
+      "number": 62,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 29
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:63",
+      "number": 63,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 30
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:64",
+      "number": 64,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 31
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:65",
+      "number": 65,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 32
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:66",
+      "number": 66,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 33
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:67",
+      "number": 67,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 34
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:68",
+      "number": 68,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 35
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:69",
+      "number": 69,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 36
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:70",
+      "number": 70,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 37
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:71",
+      "number": 71,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 38
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:72",
+      "number": 72,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 39
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:73",
+      "number": 73,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 40
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:74",
+      "number": 74,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 41
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:75",
+      "number": 75,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 42
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:76",
+      "number": 76,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 43
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:77",
+      "number": 77,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 44
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:78",
+      "number": 78,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 45
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:79",
+      "number": 79,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 46
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:80",
+      "number": 80,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/判断推理/answer-lines.md",
+        "line": 47
+      }
+    }
+  ],
+  "issues": [],
+  "examType": "xingce",
+  "year": 2000,
+  "category": "行政执法",
+  "total_questions": 100,
+  "scope": "full"
+}

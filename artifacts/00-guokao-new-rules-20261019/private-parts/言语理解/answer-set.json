@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 2,
+  "type": "answer-key",
+  "paperId": "2000-guokao-xingce-xingzhengzhifa",
+  "paperVersion": "2000-answer-pdf-v2-section-mapped",
+  "name": "00国考行测",
+  "createdAt": "2026-10-19T05:51:49Z",
+  "questions": [
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:1",
+      "number": 1,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 3
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:2",
+      "number": 2,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 4
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:3",
+      "number": 3,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 5
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:4",
+      "number": 4,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 6
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:5",
+      "number": 5,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 7
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:6",
+      "number": 6,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 8
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:7",
+      "number": 7,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 9
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:8",
+      "number": 8,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 10
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:9",
+      "number": 9,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 11
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:10",
+      "number": 10,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 12
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:11",
+      "number": 11,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 13
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:12",
+      "number": 12,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 14
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:13",
+      "number": 13,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 15
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:14",
+      "number": 14,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "B",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 16
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:15",
+      "number": 15,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 17
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:16",
+      "number": 16,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 18
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:17",
+      "number": 17,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 19
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:18",
+      "number": 18,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "C",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 20
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:19",
+      "number": 19,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "D",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 21
+      }
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:20",
+      "number": 20,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "referenceAnswer": "A",
+      "source": {
+        "file": "/Users/mac2/.codex/worktrees/ipad-save-export-20261019/artifacts/00-guokao-new-rules-20261019/answer-lines/言语理解/answer-lines.md",
+        "line": 22
+      }
+    }
+  ],
+  "issues": [],
+  "examType": "xingce",
+  "year": 2000,
+  "category": "行政执法",
+  "total_questions": 100,
+  "scope": "full"
+}

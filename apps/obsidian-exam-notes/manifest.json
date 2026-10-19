@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-exam-notes",
+  "name": "题目卡片（Exam Notes）",
+  "version": "0.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "为公考试卷题目 Callout 提供复制、双链和选项脚注操作。",
+  "author": "公考批改 Skill",
+  "isDesktopOnly": false
+}

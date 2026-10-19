@@ -1,0 +1,18 @@
+{
+  "exam": "省考六模块示例",
+  "paper_name": "六模块演示卷",
+  "questions": [
+    {"id": 1, "module": "政治理论", "user_answer": "A", "correct_answer": "B"},
+    {"id": 2, "module": "政治理论", "user_answer": "A", "correct_answer": "B"},
+    {"id": 3, "module": "常识判断", "user_answer": "", "correct_answer": "C"},
+    {"id": 4, "module": "常识判断", "user_answer": "A", "correct_answer": "C"},
+    {"id": 5, "module": "言语理解与表达", "user_answer": "B", "correct_answer": "B"},
+    {"id": 6, "module": "言语理解", "user_answer": "C", "correct_answer": "D", "is_correct": true},
+    {"id": 7, "module": "数量关系", "user_answer": "A", "correct_answer": "B"},
+    {"id": 8, "module": "数量关系", "user_answer": "A", "correct_answer": "B"},
+    {"id": 9, "module": "判断推理", "user_answer": "A", "correct_answer": "B"},
+    {"id": 10, "module": "判断推理", "user_answer": "A", "correct_answer": "B"},
+    {"id": 11, "module": "资料分析", "is_correct": "正确"},
+    {"id": 12, "module": "资料分析", "user_answer": "A", "correct_answer": "B"}
+  ]
+}

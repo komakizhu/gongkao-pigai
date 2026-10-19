@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 2,
+  "type": "answer-recorder-config",
+  "paperId": "2000-guokao-xingce-xingzhengzhifa",
+  "paperVersion": "2000-answer-pdf-v2-section-mapped",
+  "name": "00国考行测",
+  "questions": [
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:1",
+      "number": 1,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:2",
+      "number": 2,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:3",
+      "number": 3,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:4",
+      "number": 4,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:5",
+      "number": 5,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:6",
+      "number": 6,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:7",
+      "number": 7,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:8",
+      "number": 8,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:9",
+      "number": 9,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:10",
+      "number": 10,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:11",
+      "number": 11,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:12",
+      "number": 12,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:13",
+      "number": 13,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:14",
+      "number": 14,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:15",
+      "number": 15,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:16",
+      "number": 16,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:17",
+      "number": 17,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:18",
+      "number": 18,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:19",
+      "number": 19,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:言语理解:20",
+      "number": 20,
+      "section": "言语理解",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:21",
+      "number": 21,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:22",
+      "number": 22,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:23",
+      "number": 23,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:24",
+      "number": 24,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:25",
+      "number": 25,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:26",
+      "number": 26,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:27",
+      "number": 27,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:28",
+      "number": 28,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:29",
+      "number": 29,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:30",
+      "number": 30,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:31",
+      "number": 31,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:32",
+      "number": 32,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:33",
+      "number": 33,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:34",
+      "number": 34,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:数量关系:35",
+      "number": 35,
+      "section": "数量关系",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:36",
+      "number": 36,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:37",
+      "number": 37,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:38",
+      "number": 38,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:39",
+      "number": 39,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:40",
+      "number": 40,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:41",
+      "number": 41,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:42",
+      "number": 42,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:43",
+      "number": 43,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:44",
+      "number": 44,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:45",
+      "number": 45,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:46",
+      "number": 46,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:47",
+      "number": 47,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:48",
+      "number": 48,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:49",
+      "number": 49,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:50",
+      "number": 50,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:51",
+      "number": 51,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:52",
+      "number": 52,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:53",
+      "number": 53,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:54",
+      "number": 54,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:55",
+      "number": 55,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:56",
+      "number": 56,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:57",
+      "number": 57,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:58",
+      "number": 58,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:59",
+      "number": 59,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:60",
+      "number": 60,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:61",
+      "number": 61,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:62",
+      "number": 62,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:63",
+      "number": 63,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:64",
+      "number": 64,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:65",
+      "number": 65,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:66",
+      "number": 66,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:67",
+      "number": 67,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:68",
+      "number": 68,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:69",
+      "number": 69,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:70",
+      "number": 70,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:71",
+      "number": 71,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:72",
+      "number": 72,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:73",
+      "number": 73,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:74",
+      "number": 74,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:75",
+      "number": 75,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:76",
+      "number": 76,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:77",
+      "number": 77,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:78",
+      "number": 78,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:79",
+      "number": 79,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:判断推理:80",
+      "number": 80,
+      "section": "判断推理",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:81",
+      "number": 81,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:82",
+      "number": 82,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:83",
+      "number": 83,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:84",
+      "number": 84,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:85",
+      "number": 85,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:86",
+      "number": 86,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:87",
+      "number": 87,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:88",
+      "number": 88,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:89",
+      "number": 89,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:90",
+      "number": 90,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:91",
+      "number": 91,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:92",
+      "number": 92,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:93",
+      "number": 93,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:94",
+      "number": 94,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:95",
+      "number": 95,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:96",
+      "number": 96,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:97",
+      "number": 97,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:98",
+      "number": 98,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:99",
+      "number": 99,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "questionId": "2000-guokao-xingce-xingzhengzhifa:q:资料分析:100",
+      "number": 100,
+      "section": "资料分析",
+      "type": "single",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    }
+  ]
+}
